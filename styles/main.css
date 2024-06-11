@@ -37,7 +37,11 @@ body {
   font-size: 2.5em;
 }
 
-.recipe-body h2 {
+.second-box h2 {
+  color: hsl(332, 51%, 32%);
+}
+
+.recipe-body h3 {
   font-family: "Young Serif", serif;
   font-weight: 400;
   font-style: normal;
@@ -58,10 +62,6 @@ body {
   border-radius: 10px;
   padding: 20px 30px;
   margin-top: 2em;
-}
-
-.second-box h3 {
-  color: hsl(332, 51%, 32%);
 }
 
 .third-box {
