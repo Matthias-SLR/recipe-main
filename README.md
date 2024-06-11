@@ -26,6 +26,9 @@ Mobile version
 
 ### Links
 
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [https://recipe-main-ashen.vercel.app/](https://recipe-main-ashen.vercel.app/)
+
 ## My process
 
 ### Built with
