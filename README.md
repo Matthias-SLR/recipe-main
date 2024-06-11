@@ -26,7 +26,7 @@ Mobile version
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/vanilla-html-css-if-someone-can-check-if-semantic-looks-good-or-not-dQfgpfDGcI](https://www.frontendmentor.io/solutions/vanilla-html-css-if-someone-can-check-if-semantic-looks-good-or-not-dQfgpfDGcI)
 - Live Site URL: [https://recipe-main-ashen.vercel.app/](https://recipe-main-ashen.vercel.app/)
 
 ## My process
